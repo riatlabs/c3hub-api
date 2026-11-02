@@ -285,3 +285,7 @@ To use the tool, run `./c3hub` followed by the subcommand (`export-markdown` or 
 ```
 
 *Note: The `./c3hub` wrapper will automatically source your `venv` if it exists, so you can just run it seamlessly from the root folder.*
+
+## License
+
+This project is licensed under the [GNU General Public License v3.0](LICENSE) (GPL-3.0).
